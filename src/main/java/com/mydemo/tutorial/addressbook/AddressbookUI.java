@@ -38,7 +38,7 @@ public class AddressbookUI extends UI {
      */
     TextField filter = new TextField();
     Grid contactList = new Grid();
-    Button newContact = new Button("ShruthiRaj contact");
+    Button newContact = new Button("Phone contact");
 
     // ContactForm is an example of a custom component class
     ContactForm contactForm = new ContactForm();
